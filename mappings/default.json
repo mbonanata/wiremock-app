@@ -1,0 +1,11 @@
+{
+    "priority": 1,
+    "request": {
+        "method": "GET",
+        "url": "/users/1/phones"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "phones.json"
+    }
+}
